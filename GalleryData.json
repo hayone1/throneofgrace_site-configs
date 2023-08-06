@@ -1,0 +1,26 @@
+[
+    {
+        "ClickHref": "https://google.com",
+        "ButtonDisabled": true,
+        "BackImage": "images/home-carousal/1.jpg",
+        "Caption": "Paris"
+    },
+    {
+        "ClickHref": "https://google.com",
+        "ButtonDisabled": true,
+        "BackImage": "images/home-carousal/6.jpg",
+        "Caption": "Bangkok"
+    },
+    {
+        "ClickHref": "https://google.com",
+        "ButtonDisabled": true,
+        "BackImage": "images/home-carousal/3.jpg",
+        "Caption": "Indonesia"
+    },
+    {
+        "ClickHref": "https://google.com",
+        "ButtonDisabled": true,
+        "BackImage": "images/home-carousal/4.jpg",
+        "Caption": "Singapore"
+    }
+]

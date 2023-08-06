@@ -1,0 +1,32 @@
+[
+    {
+        "Class": "JSS1",
+        "Term1 Fee": "NGN 20,000",
+        "Term2 Fee": "NGN 50,000"
+    },
+    {
+        "Class": "JSS2",
+        "Term1 Fee": "NGN 20,000",
+        "Term2 Fee": "NGN 50,000"
+    },
+    {
+        "Class": "JSS3",
+        "Term1 Fee": "NGN 20,000",
+        "Term2 Fee": "NGN 50,000"
+    },
+    {
+        "Class": "JSS4",
+        "Term1 Fee": "NGN 20,000",
+        "Term2 Fee": "NGN 50,000"
+    },
+    {
+        "Class": "JSS5",
+        "Term1 Fee": "NGN 20,000",
+        "Term2 Fee": "NGN 50,000"
+    },
+    {
+        "Class": "JSS6",
+        "Term1 Fee": "NGN 20,000",
+        "Term2 Fee": "NGN 50,000"
+    }
+]

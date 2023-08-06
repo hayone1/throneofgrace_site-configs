@@ -1,0 +1,38 @@
+{
+    "form_step": {
+        "Index": 1,
+        "Title": "Voluptatem rerum dignissimos.",
+        "SubTitle": null,
+        "Paragraph": "Incidunt fugit dolores qui dolor quia.\nOdit nihil corporis repellat in sint consequatur temporibus mollitia ut.\nBlanditiis nostrum qui omnis sed quos est error sint fuga.\nLaboriosam autem voluptatem atque veniam recusandae incidunt deleniti quia.\nDolores natus ipsam.",
+        "isSelected": true,
+        "IsNotSelected": false,
+        "Completed": false,
+        "NotCompleted": true,
+        "href": null,
+        "FormInfo": {}
+    },
+    "payment_step": {
+        "Index": 2,
+        "Title": "Ratione quo dolore.",
+        "SubTitle": null,
+        "Paragraph": "Atque qui voluptas.\nUllam quas ea.\nAut praesentium omnis delectus nam qui.\nDolores similique iure cumque voluptas a animi earum accusantium nulla.\nDucimus doloremque ab perspiciatis tempore et inventore unde.",
+        "isSelected": false,
+        "IsNotSelected": true,
+        "Completed": false,
+        "NotCompleted": true,
+        "href": null,
+        "FormInfo": {}
+    },
+    "conclusion_step": {
+        "Index": 3,
+        "Title": "Assumenda beatae reiciendis possimus consequatur.",
+        "SubTitle": null,
+        "Paragraph": "Et consequatur blanditiis perferendis illum consectetur.\nEaque distinctio porro non dicta unde error suscipit aliquid accusantium.\nSunt officiis enim reprehenderit voluptas cumque omnis est voluptates quo.\nMagni magni animi eum nobis numquam.\nVoluptate praesentium amet.",
+        "isSelected": false,
+        "IsNotSelected": true,
+        "Completed": false,
+        "NotCompleted": true,
+        "href": null,
+        "FormInfo": {}
+    }
+}
