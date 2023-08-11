@@ -1,4 +1,5 @@
 {
     "version" : "0.1.3",
-    "MainLogoHref" : "https://i.imgur.com/3mcDZdS.png"
+    "MainLogoHref" : "https://i.imgur.com/3mcDZdS.png",
+    "HostName": "localhost:8081"
 }
