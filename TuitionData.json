@@ -1,5 +1,10 @@
 [
     {
+        "Class": "PLAYGROUP",
+        "Term1 Fee": "NGN 20,000",
+        "Term2 Fee": "NGN 50,000"
+    },
+    {
         "Class": "JSS1",
         "Term1 Fee": "NGN 20,000",
         "Term2 Fee": "NGN 50,000"
